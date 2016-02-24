@@ -21,7 +21,7 @@ elseif ($selectOption==5) {
   echo"de optie is 5";
 }*/
 if(isset($_POST['contact_id'])){
-  echo "hij is gevult";
+  echo "hij is gevuld";
 }
 else{
   echo "er staat niks in";

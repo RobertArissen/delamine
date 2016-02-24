@@ -45,8 +45,10 @@ height:25px;
 margin-right:20px;
 margin-top:25px;
 font-size:9pt;
+display: none;
 padding-left:35px;
 padding-top:5px;
+
 }
 
 div#mainMenu {
