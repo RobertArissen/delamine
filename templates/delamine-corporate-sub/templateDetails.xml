@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<install version="1.5" type="template">
+	<name>Delamine Corporate Subpages Template by Commplot</name>
+	<creationDate>7-7-2009</creationDate>
+	<author>Commplot</author>
+	<copyright>Commplot 2009</copyright>
+	<authorEmail>margje@commplot.nl</authorEmail>
+	<authorUrl>http://www.commplot.nl</authorUrl>
+	<version>1.0</version>
+	<description>Delamine Corporate Subpages Template by Commplot</description>
+
+<files>
+	<filename>index.html</filename>
+	<filename>index.php</filename>
+	<filename>template_thumbnail.png</filename>
+
+	<filename>css/blank.gif</filename>
+	<filename>css/iepngfix.htc</filename>
+	<filename>css/index.html</filename>
+	<filename>css/template.css</filename>
+	<filename>css/ie6.css</filename>
+
+	<filename>html/com_contact/category/default.php</filename>
+	<filename>html/com_contact/category/default_items.php</filename>
+	<filename>html/com_contact/category/index.html</filename>
+	<filename>html/com_contact/contact/default.php</filename>
+	<filename>html/com_contact/contact/default_address.php</filename>
+	<filename>html/com_contact/contact/default_form.php</filename>
+	<filename>html/com_contact/contact/index.html</filename>
+	<filename>html/com_content/index.html</filename>
+	<filename>html/com_content/article/default.php</filename>
+	<filename>html/com_content/article/form.php</filename>
+	<filename>html/com_content/article/index.html</filename>
+	<filename>html/com_content/category/blog.php</filename>
+	<filename>html/com_content/category/blog_item.php</filename>
+	<filename>html/com_content/category/blog_links.php</filename>
+	<filename>html/com_content/category/default.php</filename>
+	<filename>html/com_content/category/default_items.php</filename>
+	<filename>html/com_content/category/index.html</filename>
+	<filename>html/com_content/frontpage/default.php</filename>
+	<filename>html/com_content/frontpage/default_item.php</filename>
+	<filename>html/com_content/frontpage/default_links.php</filename>
+	<filename>html/com_content/frontpage/index.html</filename>
+	<filename>html/com_content/section/blog.php</filename>
+	<filename>html/com_content/section/blog_item.php</filename>
+	<filename>html/com_content/section/blog_links.php</filename>
+	<filename>html/com_content/section/default.php</filename>
+	<filename>html/com_content/section/index.html</filename>
+	<filename>html/com_newsfeeds/index.html</filename>
+	<filename>html/com_newsfeeds/categories/default.php</filename>
+	<filename>html/com_newsfeeds/categories/index.html</filename>
+	<filename>html/com_newsfeeds/category/default.php</filename>
+	<filename>html/com_newsfeeds/category/default_items.php</filename>
+	<filename>html/com_newsfeeds/category/index.html</filename>
+	<filename>html/com_newsfeeds/newsfeed/default.php</filename>
+	<filename>html/com_newsfeeds/newsfeed/index.html</filename>
+
+	<filename>images/blogItemReadonButton.png</filename>
+	<filename>images/blogItemReadonButtonHover.png</filename>
+	<filename>images/bodyBackground.jpg</filename>
+	<filename>images/subheader.gif</filename>
+	<filename>images/contentBottom.png</filename>
+	<filename>images/contentBottomPortal.png</filename>
+	<filename>images/delamineLogo.png</filename>
+	<filename>images/footerTopLine.png</filename>
+	<filename>images/headerImage.jpg</filename>
+	<filename>images/headerImage01.jpg</filename>
+	<filename>images/headerImageSmall01.jpg</filename>
+	<filename>images/mainMenuActive.jpg</filename>
+	<filename>images/mainMenuActive.png</filename>
+	<filename>images/mainMenuLine.jpg</filename>
+	<filename>images/readonButton.png</filename>
+	<filename>images/readonButtonHover.png</filename>
+	<filename>images/relatedItem.png</filename>
+	<filename>images/relatedItemHover.png</filename>
+	<filename>images/rightColBoxBackground.png</filename>
+	<filename>images/rightColBoxHover.png</filename>
+	<filename>images/rightColBoxLine.png</filename>
+	<filename>images/rightColBoxMoreLink.png</filename>
+	<filename>images/rightColBoxMoreLinkHover.png</filename>
+	<filename>images/rightColHover.png</filename>
+	<filename>images/rightColLine.png</filename>
+	<filename>images/searchBoxBackground.png</filename>
+	
+	<filename>images/index.html</filename>
+	<filename>images/Thumbs.db</filename>
+	
+	<filename>js/index.html</filename>
+	<filename>js/md_stylechanger.js</filename>
+	<filename>js/menu.js</filename>
+</files>
+
+<positions>
+	<position>navigatie</position>
+	<position>left</position>
+	<position>right</position>
+	<position>search</position>
+	<position>footer</position>
+	<position>related</position>
+	<position>sfeer</position>
+	<position>breadcrumbs</position>
+</positions>
+
+</install>

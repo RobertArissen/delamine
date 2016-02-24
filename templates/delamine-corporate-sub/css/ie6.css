@@ -1,0 +1,147 @@
+/* CSS Document */
+/* LEFT COLUMN MENU */
+
+body
+{
+	text-align	: center;
+		
+}
+
+div#container
+{
+	margin		: 0 auto;
+	overflow	: hidden;
+}
+
+
+div#leftColMenu ul li a 
+{
+	margin:0;
+	display:block;
+	width:155px;
+	height:22px;
+	padding:5px 0px 5px 0px;
+	font-size:8pt;
+	text-transform:uppercase;
+	letter-spacing:0.08em;
+	color: #808080;
+	border-bottom:1px solid #C5C5C5;
+}
+
+div.item-bg 
+{
+	background-image	: url(../images/lineTitle.png);
+	background-position	: center bottom;
+	background-repeat	: no-repeat;
+	display				: block;
+	height				: 100%;
+	padding-bottom		: 10px;
+	margin-bottom		: 10px;
+}
+
+div#content
+{
+	overflow			: hidden;
+}
+
+/* MAIN MENU */
+
+.first a {
+background-position:-2px 0;
+display:block;
+height:30px;
+padding:8px 14px 0px;
+text-decoration: none;
+float: left;
+color: #999;
+}
+.first.active a {
+background-position:0px 0;
+display:block;
+height:30px;
+padding:8px 14px 0px;
+text-decoration: none;
+float: left;
+color: #999;
+}
+
+div#mainMenu ul li.first a:hover {
+color: #6D9B32;
+}
+
+/* RIGHT COLUMN BOX */
+
+
+.rightColBox 
+{
+	display					: block;
+	width					: 200px;
+	background-image		: url(../images/rightColBoxBackground.png);
+	background-repeat		: no-repeat;
+	background-position		: right bottom;
+	padding					: 0 0 14px 0;
+	text-align				: right;
+}
+
+.rightColBoxHeader {
+display:block;
+height:24px;
+background-image:url(../images/rightColBoxBackground.png);
+background-repeat:no-repeat;
+background-position: right top;
+text-transform:uppercase;
+font-size:11pt;
+letter-spacing:0.08em;
+font-weight:lighter;
+color: #6D9B32;
+text-align:left;
+padding-top:15px;
+margin-left:-3px;
+}
+
+.rightColBoxContent {
+padding:0;
+margin:0 0 0 18px;
+text-align:left;
+}
+
+.rightColBoxItem a {
+display:block;
+width:180px;
+padding:5px 10px 10px;
+font-size:8.35pt;
+line-height:1.15em;
+font-weight:lighter;
+background-image:url(../images/rightColBoxLine.png);
+background-repeat:no-repeat;
+background-position:3px bottom;
+color:#808080;
+}
+
+.rightColBoxItem a:hover {
+background-color:#F9F9F9;
+}
+
+.rightColBoxMoreLink a {
+display:block;
+width:170px;
+height:26px;
+background-image:url(../images/rightColBoxMoreLink.png);
+background-repeat:no-repeat;
+padding:8px 15px 0;
+color: #6D9B32;
+font-size:9pt;
+font-weight:bolder;
+}
+
+.rightColBoxMoreLink a:hover {
+background-image:url(../images/rightColBoxMoreLinkHover.png);
+background-repeat:no-repeat;
+}
+
+
+.rightColBlockContent a:hover {
+color:#555;
+}
+
+a {font-size: 9pt;}
